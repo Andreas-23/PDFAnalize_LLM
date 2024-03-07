@@ -46,7 +46,7 @@ def process_document_route():
 
     # Return a success message as JSON
     return jsonify({
-        "botResponse": "Thank you for providing your PDF document. I have analyzed it, so now you can ask me any "
+        "botResponse": "Mauliate!!, sekarang Apa yang ingin anda ketahui? "
                        "questions regarding it!"
     }), 200
 
